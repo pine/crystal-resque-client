@@ -1,4 +1,4 @@
-# crystal-resque-client
+# crystal-resque-client [![Build Status](https://travis-ci.org/pine613/crystal-resque-client/master.svg)](https://travis-ci.org/pine613/crystal-resque-client)
 
 Simple [Resque](https://github.com/resque/resque) queue client for [Crystal](http://crystal-lang.org/) inspired by [go-resque](https://github.com/kavu/go-resque).
 
